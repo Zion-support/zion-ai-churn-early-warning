@@ -1,10 +1,17 @@
-# Zion AI Churn Early-Warning
+# Zion AI Churn Early Warning — Zion App Network
 
-Usage-signal churn risk detection.
+Zion AI Churn Early-Warning — usage-signal churn risk detection with save playbooks. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-churn-predictor](https://github.com/Zion-support/zion-ai-churn-predictor) · [churn-radar](https://github.com/Zion-support/churn-radar) · [zion-crm-intelligence](https://github.com/Zion-support/zion-crm-intelligence) · [zion-ai-sales-intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-churn-early-warning](https://ziontechgroup.com/zion-ai-churn-early-warning)
+- 🏠 Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Churn Predictor](https://github.com/Zion-support/zion-ai-churn-predictor) — customer health scoring and save playbooks
+- [Churn Radar](https://github.com/Zion-support/churn-radar) — churn prediction
+- [Zion AI Call Analytics](https://github.com/Zion-support/zion-ai-call-analytics) — voice-of-customer insights
+- [Zion AI Social Listening](https://github.com/Zion-support/zion-ai-social-listening) — brand monitoring and sentiment
+- [Zion AI Data Analyst](https://github.com/Zion-support/zion-ai-data-analyst) — AI data analysis
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
